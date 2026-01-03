@@ -18,5 +18,16 @@ data patterns, distributions, and relationships.
 - Correlation analysis
 
 ## Outcome
-Identified key insights, trends, and data quality issues to support
-data-driven decision making.
+- Identified data quality issues such as missing values, duplicates, and
+  inconsistencies, improving overall data reliability.
+- Analyzed data distributions to understand variable behavior and detect
+  skewness and outliers.
+- Discovered meaningful trends, patterns, and correlations between key
+  features within the dataset.
+- Visualized insights using charts and graphs to support data-driven
+  interpretation.
+- Prepared a clean and well-structured dataset suitable for further analysis,
+  modeling, or dashboard creation.
+- Strengthened practical skills in data cleaning, exploratory analysis, and
+  visualization using Python libraries.
+  
